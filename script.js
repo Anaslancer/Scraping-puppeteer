@@ -71,8 +71,8 @@ async function performActions(browser, url) {
     });
 
     // await page.goto('https://www.linkedin.com/login');
-    // await page.type('#username', 'yash@fleetcommuterbenefits.com', { delay: 100 });
-    // await page.type('#password', '%*iqIS1Hc^LJZd8M', { delay: 100 });
+    // await page.type('#username', 'xxx', { delay: 100 });
+    // await page.type('#password', 'xxx', { delay: 100 });
     // await page.click('button[type="submit"]');
     // await page.waitForNavigation();
 
